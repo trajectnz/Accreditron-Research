@@ -21,9 +21,9 @@ The aim is to have five providers opt-in to use the alpha-release version of Acc
 
 ### Participant Groups
 
-| Assessor | Provider |
+| Provider | Assessor |
 | --- | --- |
-| 5 Participants from the Social Service Accreditation Team | 5 Individuals that represent social service provider organsations and meet the criteria stated below. |
+| 5 Individuals that represent social service provider organsations and meet the criteria stated below. | 5 Participants from the Social Service Accreditation Team |
 
 {% hint style="info" %}
 A sample size of 5 offers an optimal benefit-to-cost ratio. This will provide the the minimum amount of data needed to draw conclusions while still reducing duplication and provider fatigue.
