@@ -7,7 +7,7 @@ description: >-
 
 # Trials
 
-## Benefits of conducting a trial of Accreditron:
+## Benefits of conducting trials of Accreditron:
 
 1. higher quality and more usable software,
 2. optimising system performance and ensuring efficiency gains,
@@ -21,21 +21,15 @@ By getting real people using the software during a trial, we can collect real-wo
 
 ## Trials of Accreditron
 
-[Trial 1 conducted November 2017 through January 2018](usability-trial-1/)
-
-[Trial 2 conducted March 2018 through May 2018](untitled-1/)
-
-## What we changed about our platform when we listened to our users {#99c9}
-
-[Accreditron](http://www.accreditron.com/) is a “multi-stakeholder” software product. When designing Accreditron our team has to think about every little interaction or edge-case. _How does someone sign-in? What should be the first thing they see? What happens if we put this button in the bottom-right versus top-left? What if someone tries to click the page 500 times a second?_
-
-##  {#bde6}
-
-
-
-
-
-
+### Trial 1: Conducted from November 2017 - January 2018
 
 {% page-ref page="usability-trial-1/" %}
+
+### Trial 2: Conducted from March 2018 - June 2018
+
+{% page-ref page="untitled-1/" %}
+
+
+
+
 
