@@ -26,7 +26,11 @@ This document will outline the planned process for Trial 2. To understand what i
 
 ## Participants
 
-**5 Providers** \|\| **5 Assessors**
+**Participant groups**
+
+| Assessor | Provider |
+| --- | --- |
+| 5 Participants | 5 Organsations |
 
 A sample size of 5 offers an optimal benefit-to-cost ratio. This will provide the the minimum amount of data needed to draw conclusions while still reducing duplication and provider fatigue.
 
