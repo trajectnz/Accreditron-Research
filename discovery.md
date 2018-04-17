@@ -6,15 +6,17 @@ description: >-
 
 # Discovery
 
+## Background
+
 This research was conducted to understand the problem space of social sector and government interactions. At the time of this research, Acceditron did not exist. This discovery research and corresponding insights lead to the validation and development of Accreditron.
 
-## Discovery Process
+## Process
 
 Over 70 s**emi-structured interviews** with Social Service Providers and Government staff were conducted over a six-week period. This started in late February of 2017.
 
 Interviews were focused on gathering qualitative information and less focused on gathering quantitative information. **Thematic analysis** was conducted to discover common insights. 
 
-## Findings and Insights \(Providers\)
+## Findings and Insights for Providers
 
 Here are the top six insights collected from Social Service Providers during this discovery process:
 
@@ -44,7 +46,7 @@ Here are the top six insights collected from Social Service Providers during thi
 
 
 
-## Finding and Insights \(Government\)
+## Finding and Insights for Government
 
 Here are the top six insights collected from Government during this discovery process:
 
