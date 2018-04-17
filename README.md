@@ -46,7 +46,7 @@ Usability research is one option for gathering data and measuring performance. B
 
 | Social Service Providers | Government Workers |
 | --- | --- |
-| Organisations mostly NGO's and Charities that deliver social services to individuals. | Individuals that span many levels of government across: Social Sector Accreditation Team, Government Contract Management Teams, Procurement Teams, Researchers, Leadership, Ministers, and more. |
+| Organisations mostly NGOs and Charities that deliver social services to individuals. | Individuals that span many levels of government across: Social Sector Accreditation Team, Government Contract Management Teams, Procurement Teams, Researchers, Leadership, Ministers, and more. |
 
 
 
