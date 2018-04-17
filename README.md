@@ -50,3 +50,9 @@ Usability research is one option for gathering data and measuring performance. B
 
 
 
+
+
+{% page-ref page="discovery.md" %}
+
+
+
