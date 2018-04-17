@@ -28,19 +28,34 @@ What percentage of your time was dedicated to the pre-assessment during that tim
 
 ## Outcomes from Trial 1
 
-We measured against four themes for Trial 1. Trial two will expand on these themes while still measuring against them.
+We measured against four main themes for Trial 1. Trial two will expand on these themes while still measuring against them.
 
-  
 [1. Login and Registration](https://accreditron.gitbook.io/research/~/edit/primary/trials/usability-trial-1/outcomes#1.-login-and-registration)
+
+### 1. Login and Registration
+
+Users can login and register
 
 [2. Setting Expectations](https://accreditron.gitbook.io/research/~/edit/primary/trials/usability-trial-1/outcomes#2.-setting-expectations)
 
 [3. Question and Content Comprehension](https://accreditron.gitbook.io/research/~/edit/primary/trials/usability-trial-1/outcomes#3.-question-and-content-comprehension)
 
 [4. Navigation](https://accreditron.gitbook.io/research/~/edit/primary/trials/usability-trial-1/outcomes#4.-navigation)  
+  
+  
 
 
-## Themes to be measured for Trial 2
+## Additional Themes for Trial 2
+
+1. Understanding how providers internally manage actions
+
+2. 
+
+### Internal action management
+
+### Theme 2
+
+### Theme 3
 
 
 
