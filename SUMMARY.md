@@ -2,6 +2,8 @@
 
 * [Research](README.md)
 * [About](research.md)
+* [Discovery](discovery.md)
+* [Co-Design](co-design.md)
 * [Trials](trials/README.md)
   * [Usability Trial 1](trials/usability-trial-1/README.md)
     * [Process and Procedure](trials/usability-trial-1/process-and-procedure.md)
@@ -12,6 +14,4 @@
     * [Process and Procedure](trials/untitled-1/untitled.md)
     * [Resources](trials/untitled-1/resources.md)
     * Insights
-* [Co-Design](co-design.md)
-* [Discovery](discovery.md)
 
