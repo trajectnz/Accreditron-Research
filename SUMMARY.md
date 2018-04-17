@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Research](README.md)
-* [About](research.md)
+* [Research on Accreditron](README.md)
 * [Discovery](discovery.md)
 * [Co-Design](co-design.md)
 * [Trials](trials/README.md)
