@@ -12,7 +12,7 @@ Each trial was approximately 1.5 hours long and consisted of three components:
 
 ## Task
 
-** **All users were given the same task as part of the usability trial. By offering the same prompt to all participants, we ensured that their responses were as unbiased as possible as well as more directly comparable. The task providers were asked to perform was fairly straightforward:
+All users were given the same task as part of the usability trial. By offering the same prompt to all participants, we ensured that their responses were as unbiased as possible as well as more directly comparable. The task providers were asked to perform was fairly straightforward:
 
 {% hint style="info" %}
 **Participant Task:**
