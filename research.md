@@ -40,19 +40,11 @@ Usability research is one option for gathering data and measuring performance. B
 
 {% page-ref page="trials/" %}
 
-
-
-### 
-
 ## Participant Pool
 
-### Social Service Providers
-
-NGO's and Charities that deliver social services. 
-
-### Government Workers
-
-Social Sector Accreditation Team, Government Contract Management Teams, Procurement Teams, Researchers, Leadership, Ministers, and more.
+| Social Service Providers | Government Workers |
+| --- | --- |
+| Organisations mostly NGO's and Charities that deliver social services to individuals. | Individuals that span many levels of government across: Social Sector Accreditation Team, Government Contract Management Teams, Procurement Teams, Researchers, Leadership, Ministers, and more. |
 
 
 
