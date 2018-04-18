@@ -26,7 +26,11 @@ Assessors have an experienced understanding of the Accreditation process. They'v
 * "This question is a lot of work to complete, particularly for large providers"
 * "This document is usually stuck to a wall - a provider could submit a copy now, but it's most likely a photo not a scan. Reword to make it clear a photo is fine"
 * "While we've traditionally asked for this, this question isn't actually that useful"
-* "While that's the technical term for that document, some providers would know it by it X"U
+* "While that's the technical term for that document, some providers would know it by it X"
+
+We track the question set in Trello, to ensure the discussion around questions is maintained and decisions can be reviewed.
+
+![](../.gitbook/assets/screen-shot-2018-04-18-at-3.11.00-pm.png)
 
 ### Upcoming work
 
