@@ -12,9 +12,9 @@ Co-sponsored by SSPA, we had a great turn out of six national social service pro
 
 * Presentation of MSD Survey and Hui with 50 social service providers
 * Demonstration of current state of Accreditron
-* Facilitated design activities to prototype and develop ideas ~2hours
+* Facilitated design activities to prototype and develop ideas ~2 hours
 
-## Insights
+## Insights Learned 
 
 Insights were gathered based on information collected from the workshop. Below outlines the highest valued insights to the group.
 
