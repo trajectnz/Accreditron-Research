@@ -64,11 +64,9 @@ Providers expressed the need to be able to show:
 * Who their contacts are.
 * What processes their organisation go through. 
 
-
-
 ![hand-drawn mockup](../.gitbook/assets/1_boffzspifaxnmr1aylq-la.jpeg)
 
- The Inter-agency Provider Profile was created to be a way for an organisation to share top level information about their organisation to authorised parties. Later iterations of the provider profile were testing with social service providers and the all-of-government co-design working group.  
+The Inter-agency Provider Profile was created to be a way for an organisation to share top level information about their organisation to authorised parties. Later iterations of the provider profile were testing with social service providers and the all-of-government co-design working group.  
 
 
 
