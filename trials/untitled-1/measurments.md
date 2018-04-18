@@ -26,9 +26,19 @@ For your last accreditation, how long did it take your organisation to submit th
 What percentage of your time was dedicated to the pre-assessment during that time?
 {% endhint %}
 
-## Outcomes from Trial 1
 
-We measured against four main themes for Trial 1. Trial two will expand on these themes while still measuring against them.
+
+
+
+## Quantifying time 
+
+We want to understand how much time is spent on tasks so we can articulate how much time has is saved with different feature additions to Accreditron. 
+
+Our aim Trial 1 was to gather quantifiable information about how much time providers spend on different processes, particularly in their pre-assessment. Providers would not able to put numbers to their time commitment, instead they would answer with qualitative statements 
+
+> We spend two weeks with our staff in the office until 10pm at night preparing for an Accreditation.
+
+As we move into future trials we will focus on different ways to quantify the time commitment
 
 ### 1. Login and Registration
 
@@ -38,15 +48,7 @@ Users can login and register with ease.
 
 ### 3. Question and Content Comprehension
 
-### 4. Navigation   
-
-### Quantifying time can be hard to articulate
-
-Our  aim Trial 1 was to gather quantifiable information about how much time providers spend on different processes, particularly in their pre-assessment. Providers would not able to put numbers to their time commitment, instead they would answer with qualitative statements 
-
-> We spend two weeks with our staff in the office until 10pm at night preparing for an Accreditation.
-
-As we move into future trials we will focus on different ways to quantify the time commitment
+### 4. Navigation 
 
 ## Additional Themes for Trial 2
 
