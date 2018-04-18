@@ -6,7 +6,9 @@ Accreditron has been facilitating demos and co-design workshops with government 
 
 ## Organisations in Attendance
 
-### Organisations regularly attending all-of-government co-design workshops and feedback sessions
+We have been working with over 40 business units across multiple agencies and crown agents. Some agencies regularly attend co-design workshops as part of a co-design working group. Other have contribute input, feedback, and support not listed below.
+
+### Organisations regularly in attendance
 
 * Ministry of Social Development
 * Oranga Tamariki, Ministry for Children
@@ -20,11 +22,9 @@ Accreditron has been facilitating demos and co-design workshops with government 
 * Ministry for Business, Innovation, and Employment
 * ACC
 * NZQA
+* DAAs 
 
-  
-
-
-### Other organisation's Involved in co-design
+### Additional Organisations
 
 * Ministry for Women
 * Social Investment Agency

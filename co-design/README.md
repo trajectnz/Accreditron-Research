@@ -6,8 +6,7 @@ description: A human-centered design approach to development of Accreditron
 
 ## Benefits of Co-Design
 
-Co-design reduces risk and increase the chances of success by understanding problems from the perspectives of individuals. We can build and run prototypes that inexpensively test solutions at a small scale. Before investing into a larger system.  
-
+Co-design reduces risk and increase the chances of success by understanding problems from the perspectives of individuals. We can build and run prototypes that inexpensively test solutions at a small scale. Before investing into a larger system.
 
 Co-design workshops support us to align the diverse stakeholders by using methods that bring ‘the system’ into the room, and to support more effective conversations. These diverse perspectives help produce solutions with greater integrity and resilience.
 

@@ -1,7 +1,5 @@
 ---
-description: >-
-  Additional to the discovery interviews and trials held. We have also conducted
-  co-design workshops directly with provider group.
+description: Providers designing a system that suits the sectors needs.
 ---
 
 # Provider Co-design Workshop 1
