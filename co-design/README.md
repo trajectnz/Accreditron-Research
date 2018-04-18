@@ -1,5 +1,5 @@
 ---
-description: Iterating fast through diverse perspectives
+description: Exploring ideas from diverse perspectives.
 ---
 
 # Co-Design Workshops
