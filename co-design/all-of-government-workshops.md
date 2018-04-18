@@ -6,7 +6,7 @@ Accreditron has been facilitating demos and co-design workshops with government 
 
 ## Organisations in Attendance
 
-We have been working with over 40 business units across multiple agencies and crown agents. Some agencies regularly attend co-design workshops as part of a co-design working group. Other have contribute input, feedback, and support not listed below.
+We have been working with over 40 business units across multiple agencies and crown agents. Some agencies regularly attend co-design workshops as part of a co-design working group. Other have contribute input, feedback, and support in separate meetings outside of the regularly schedules workshops.
 
 ### Organisations regularly in attendance
 
