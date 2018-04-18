@@ -63,7 +63,7 @@ Individuals who go through similar process to fund the Social Sector but are not
 
 > As a whole, charities that deliver social services only receive about 50% of their funding from government. The other 50% is from non government sources.
 >
-> 2015 Productivity Commissioner Report
+> Source: 2015 Productivity Commission Report
 
 
 
