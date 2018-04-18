@@ -1,13 +1,14 @@
 ---
-description: >-
-  Accreditron is designed it to be an easy-to-use, paperless, online
-  accreditation tool that makes the pre-assessment process easier. To make sure
-  it’s as good as it can be we need feedback from the peo
+description: Testing designs as they will be used in the real world.
 ---
 
 # Trials
 
-## Benefits of conducting trials of Accreditron:
+## What is a usability trial?
+
+A use-ability trial is a cheap way to get feedback from **real world users**. It involves showing a version of the product \(either a prototype or mockups\) to the end user, and ensuring the design is functional. The goal is to simulate how the product will be used once it is fully released, and find issues or opportunities. Every trial will have one or several tasks for the user to complete, semi-structured interviews, and questionnaires. 
+
+ The benefits of a well run trial can include:
 
 1. higher quality and more usable software,
 2. optimising system performance and ensuring efficiency gains,
@@ -17,7 +18,7 @@ description: >-
 6. reduced development costs, and
 7. reduced support cost.
 
-By getting real people using the software during a trial, we can collect real-world measurements. Better software means a better experience, and this means better relationships - **happier providers and happier staff**.
+By getting actual **end-users** to use the software during a trial, we can collect real-world insights. Better software means a better experience, and this means better relationships - **happier providers and happier staff**.
 
 ## Trials of Accreditron
 
