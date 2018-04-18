@@ -1,28 +1,35 @@
 ---
-description: A human-centered design approach to development of Accreditron
+description: Iterating fast through diverse perspectives
 ---
 
 # Co-Design Workshops
 
-## Benefits of Co-Design
+![Feedback written over paper prototypes after an all-of-government workshop](https://lh4.googleusercontent.com/QGrXygFX2fOuJLftOWdptNS0rF9RJL7UGV6imR0GnPfmfBuX4wsPNn_BEYBTdekB_mNK11-WmhHKJRY3FNRPfJUXdQ6IylB5DdZQaBJXewb_QrU1O3p2N7IptS2DHOJIWzyPCs7LXGQ)
 
-Co-design reduces risk and increase the chances of success by understanding problems from the perspectives of individuals. We can build and run prototypes that inexpensively test solutions at a small scale. Before investing into a larger system.
+## Co-design workshops methodology
 
-Co-design workshops support us to align the diverse stakeholders by using methods that bring ‘the system’ into the room, and to support more effective conversations. These diverse perspectives help produce solutions with greater integrity and resilience.
+To understand a problem, a great initial step is to get the widest range of stakeholders as you can in a room to discuss the problem and potential solutions.   
+  
+This methodology is called co-design. It works great in a workshop setting when you:
 
-## Working with Government
+* Don't fully understand the problem or opportunity
+* Don't understand the problem from other people's perspectives 
+* Unsure where other stakeholders would fit into a solution
+* Are exploring ideas
 
+During a workshop we will often present ideas, ask large questions, and spark ideas to support effective conversations and keep the topic on track.
 
+Workshops are used extensively in the early design phases. **Pitching an idea to a room, and receiving verbal feedback is fast, and cheap**. It ensures obvious problems or opportunities are caught early by exposing them to a wide range of diverse perspectives. 
 
-![](https://lh4.googleusercontent.com/QGrXygFX2fOuJLftOWdptNS0rF9RJL7UGV6imR0GnPfmfBuX4wsPNn_BEYBTdekB_mNK11-WmhHKJRY3FNRPfJUXdQ6IylB5DdZQaBJXewb_QrU1O3p2N7IptS2DHOJIWzyPCs7LXGQ)
+Many of our best ideas and opportunities have come out of co-design workshops, ideas we would have never considered by ourselves. In short, "you don't know, what you don't know". 
 
-## Working with Providers
+## Workshops
 
-![IMG\_2413.jpg](https://lh4.googleusercontent.com/MeZTON-tbWAFo1I3ZDbTDye5kyZ02LdClzgoAaLJ1vw9YEx0KV3ZsrQ7CWug-vxAjXDcks8g5flH-pcIThy9s1xRNctyKN-_bkO0fIMMKvTT9mv9LWtpjuHdtO74p28H59kmXDiZ_VQ)
+{% page-ref page="all-of-government-workshops.md" %}
 
+{% page-ref page="untitled.md" %}
 
-
-
+{% page-ref page="provider-co-design-workshop.md" %}
 
 
 
