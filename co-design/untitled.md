@@ -26,19 +26,14 @@ Assessors have an experienced understanding of the Accreditation process. They'v
 * "This question is a lot of work to complete, particularly for large providers"
 * "This document is usually stuck to a wall - a provider could submit a copy now, but it's most likely a photo not a scan. Reword to make it clear a photo is fine"
 * "While we've traditionally asked for this, this question isn't actually that useful"
-* "While that's the technical term for that document, some providers would know it by it X"
+* "While that's the technical term for that document, some providers would know it by it X"U
 
-## Future Work
+### Upcoming work
 
-### Question Set for other levels
-
-We have designed the question set for level 1-3, but there are other Accreditation Standards. We have started looking at level 4, and will be reviewing the speciality standards.
-
-### Workflow Tools
-
-This group will be the first users to test the system with real providers, and test the workflow tools. 
-
-* Unfinsihed.
+* Question sets for level 4
+* Question set for speciality standards
+* Feedback on workflow tools
+* Alpha Testing
 
 
 
