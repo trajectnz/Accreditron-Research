@@ -42,15 +42,13 @@ Users can login and register with ease.
 
 ## Additional Themes for Trial 2
 
-1. Understanding how providers internally manage actions
+what else we are testing to
 
-2. 
+### 5. Internal action management
 
-### Internal action management
+### 6. Theme 2
 
-### Theme 2
-
-### Theme 3
+### 7. Theme 3
 
 
 
