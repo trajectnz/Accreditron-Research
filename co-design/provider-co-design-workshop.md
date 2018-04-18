@@ -57,11 +57,20 @@ One of the activities in the co-design session was to draw the ideal system that
 
 ### Inter-agency Provider Profile
 
+Providers expressed the need to be able to show:
+
+* What services their organisation offers, even ones not funded by government.
+* Where their funding is coming from to show the full picture of how their services are funded.
+* Who their contacts are.
+* What processes their organisation go through. 
+
 
 
 ![hand-drawn mockup](../.gitbook/assets/1_boffzspifaxnmr1aylq-la.jpeg)
 
-  
+ The Inter-agency Provider Profile was created to be a way for an organisation to share top level information about their organisation to authorised parties. Later iterations of the provider profile were testing with social service providers and the all-of-government co-design working group.  
+
+
 
 
 **Continue to next section:**
