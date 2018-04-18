@@ -44,13 +44,7 @@ Here are the top six insights collected from Social Service Providers during thi
 
 
 
-## Findings and Insights for Government
 
-Here are the top six insights collected from Government during this discovery process:
-
-### 1. Sharing information is too time consuming.
-
-### 2. More trust and transparency is needed in the sector.
 
 
 
