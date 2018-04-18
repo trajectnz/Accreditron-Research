@@ -40,6 +40,14 @@ Users can login and register with ease.
 
 ### 4. Navigation   
 
+### Quantifying time can be hard to articulate
+
+Our  aim Trial 1 was to gather quantifiable information about how much time providers spend on different processes, particularly in their pre-assessment. Providers would not able to put numbers to their time commitment, instead they would answer with qualitative statements 
+
+> We spend two weeks with our staff in the office until 10pm at night preparing for an Accreditation.
+
+As we move into future trials we will focus on different ways to quantify the time commitment
+
 ## Additional Themes for Trial 2
 
 what else we are testing to
