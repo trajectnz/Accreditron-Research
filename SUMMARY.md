@@ -5,7 +5,7 @@
 * [Co-Design Workshops](co-design/README.md)
   * [All-of-Government Workshops](co-design/all-of-government-workshops.md)
   * [Assessor Working Group](co-design/untitled.md)
-  * [Provider Co-design Workshops](co-design/provider-co-design-workshop.md)
+  * [Provider Co-design Workshop 1](co-design/provider-co-design-workshop.md)
 * [Trials](trials/README.md)
   * [Usability Trial 1](trials/usability-trial-1/README.md)
     * [Process and Procedure](trials/usability-trial-1/process-and-procedure.md)

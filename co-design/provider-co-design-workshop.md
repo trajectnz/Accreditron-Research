@@ -4,17 +4,11 @@ description: >-
   co-design workshops directly with provider group.
 ---
 
-# Provider Co-design Workshops
-
-{% hint style="info" %}
-This section is a work in progress. Meaning, some provider co-design workshops that have been conducted are not currently documented here yet. Please check back later to see updated results.
-{% endhint %}
-
-## Workshop 1
+# Provider Co-design Workshop 1
 
 August 21, 2017
 
-Co-sponsered by SSPA, we had a great turn out of six national social service providers and representatives from Ministry for Social Development.
+Co-sponsored by SSPA, we had a great turn out of six national social service providers and representatives from Ministry for Social Development.
 
 ## Agenda
 
