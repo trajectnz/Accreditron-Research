@@ -4,7 +4,7 @@ description: Providers designing a system that suits the sectors needs.
 
 # Provider Co-design Workshop 1
 
-August 21, 2017
+**August 21, 2017**
 
 Co-sponsored by SSPA, we had a great turn out of six national social service providers and representatives from Ministry for Social Development.
 
