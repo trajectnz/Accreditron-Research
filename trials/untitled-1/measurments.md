@@ -40,10 +40,36 @@ or
 
 As we move into future trials we will trial asking different questions that can help us quantify how much time is saved when using Accreditron.
 
+  
+Our previous strategy was to ask about total time spent. We will still ask this, but will not expect quantitative answers.
+
+{% hint style="warning" %}
+Asking about total time:
+
+"For your last accreditation, how long did it take your organisation to submit the information from when you started the pre-assessment process?”
+
+“Would you say more or less than a week..?”
+{% endhint %}
+
+  
+Additional follow up to understand 
+
+{% hint style="warning" %}
+Asking about percentage of contribution:  
+“What percentage of your time was dedicated to the pre-assessment during that time?”
+
+“Were any other people involved?”  
+{% endhint %}
 
 
-{% hint style="info" %}
-example question that shows how we are measuring time
+
+{% hint style="success" %}
+Asking about events:  
+"For your last pre-assessment were you asked to provide additional information after?"  
+  
+"How many times were you asked for addional information?"  
+  
+"During your pre-assessment on Accreditron we're you asked to provide additional information after?"
 {% endhint %}
 
 ##  Themes measured - continued from Trial 1
