@@ -41,7 +41,7 @@ or
 As we move into future trials we will trial asking different questions that can help us quantify how much time is saved when using Accreditron.
 
   
-Our previous strategy was to ask about total time spent. We will still ask this, but will not expect quantitative answers.
+In trial one we ask about total time spent on the process. We will still ask this, but will not expect quantitative answers.
 
 {% hint style="warning" %}
 Asking about total time:
@@ -52,7 +52,7 @@ Asking about total time:
 {% endhint %}
 
   
-Additional follow up to understand 
+Additional follow up to understand, and start to quantify. Is this a one person job, is it a two person job, do the spend 50% of their time working on their pre-assessment?
 
 {% hint style="warning" %}
 Asking about percentage of contribution:  
@@ -61,10 +61,10 @@ Asking about percentage of contribution:
 “Were any other people involved?”  
 {% endhint %}
 
-
+To gather more additional quantitative information, we will begin to ask about first times successful submissions. Are we reducing the number of back and forth emails from a provider not providing all of the right information up-front.
 
 {% hint style="success" %}
-Asking about events:  
+Asking about events and first time completion rate:  
 "For your last pre-assessment were you asked to provide additional information after?"  
   
 "How many times were you asked for addional information?"  
@@ -72,7 +72,9 @@ Asking about events:
 "During your pre-assessment on Accreditron we're you asked to provide additional information after?"
 {% endhint %}
 
-##  Themes measured - continued from Trial 1
+Checking completion status of a pre-assessment, and ensuring that all of the correct information is submitted first try is a better indicator of success vs reducing time spent on the process. 
+
+##  Comparing insights to previous Trial
 
 ### 1. Login and Registration
 
@@ -96,9 +98,9 @@ what else we are testing to
 
 ### 5. Internal action management
 
-### 6. Theme 2
+### 6. Dashboard
 
-### 7. Theme 3
+### 
 
 
 
