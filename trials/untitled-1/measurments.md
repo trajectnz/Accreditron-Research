@@ -78,7 +78,7 @@ Checking completion status of a pre-assessment and ensuring that all of the corr
 
 Accreditron has a goal of shifting as much work as possible to a pre-assessment where it can reviewed at a desk instead of during a site visit. And since all information is saved for a providers next assessment on Accreditron we will expect to see the majority of the times savings occur during their second pre-assessment process.
 
-##  Comparing insights from previous Trial
+##  Comparing Insights from Previous Trial
 
 We will continue to review and gather insights relating to:
 
