@@ -26,7 +26,7 @@ For your last accreditation, how long did it take your organisation to submit th
 What percentage of your time was dedicated to the pre-assessment during that time?
 {% endhint %}
 
-## Quantifying Time 
+## Quantifying Time Commitments
 
 We want to understand how much time is spent on tasks so we can articulate how much time has is saved with different feature additions to Accreditron. Time savings is a great way to tangibly show benefit.
 
