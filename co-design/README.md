@@ -14,11 +14,9 @@ Co-design workshops support us to align the diverse stakeholders by using method
 
 ![Feedback on Inter-agency Provider Profile designs](https://lh4.googleusercontent.com/QGrXygFX2fOuJLftOWdptNS0rF9RJL7UGV6imR0GnPfmfBuX4wsPNn_BEYBTdekB_mNK11-WmhHKJRY3FNRPfJUXdQ6IylB5DdZQaBJXewb_QrU1O3p2N7IptS2DHOJIWzyPCs7LXGQ)
 
-## Workshops with Social Service Accreditation Assessors
+## Workshops with Social Service Accreditation Team
 
-**Skip to section:**
-
-{% page-ref page="untitled.md" %}
+Working with individuals in the Social Service Accreditation Team. This includes managers, regional managers, and assessors.
 
 ## Workshops with Providers
 
@@ -27,12 +25,6 @@ This section is a work in progress. Meaning, some provider co-design workshops t
 {% endhint %}
 
 ![Documenting providers Journey in Workshop 1](https://lh4.googleusercontent.com/MeZTON-tbWAFo1I3ZDbTDye5kyZ02LdClzgoAaLJ1vw9YEx0KV3ZsrQ7CWug-vxAjXDcks8g5flH-pcIThy9s1xRNctyKN-_bkO0fIMMKvTT9mv9LWtpjuHdtO74p28H59kmXDiZ_VQ)
-
-**Skip to section:**
-
-{% page-ref page="provider-co-design-workshop.md" %}
-
-
 
 
 
