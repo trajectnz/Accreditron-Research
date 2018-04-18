@@ -6,30 +6,30 @@ description: >-
 
 # Design Research at Accreditron
 
-
-
-
+## Why is design needed
 
 ![](.gitbook/assets/design.png)
 
+Everybody has experienced bad software before. Websites, apps, or programmes which:
+
+* Were _frustratingly_ confusing
+* Didn't do what you really needed them to do
+* Made your work harder
+* Made it feel like it was your fault
+
+This is a result of poorly designed software. We want Accreditron to be the best it possibly can be, and for it to work effectively it needs to be simple, easy to use, and empowering - everything bad software isn't. 
+
+That's what this website is about! It's a transparent, detailed, behind-the-scenes look at the design work going into Accreditron. We hope you find it useful. 
+
+### The disconnect between users and stakeholders
+
+Accreditrion is a web platform for New Zealand's Social Sector. Our **users** are spread across New Zealand's social sector, and our **stakeholders** are spread across government.  
   
-Accreditron is a platform that makes it easier for Social Service Providers to spend less time on paperwork so they can spend more time with their clients. 
+We think Accreditron should be zero cost to the social sector. This means, like many enterprise software companies, the stakeholders funding Accreditron are not representative of all the users that will engage with the product. Instead, funding stakeholders might be the management, government leadership, or funding organisations. 
 
-![All-of-government web platform for the social sector](https://cdn-images-1.medium.com/max/800/1*H_HzVpo7CRl1ncp29CHs1w.png)
+> Because of this difference in incentives, a disconnect can form between what the funding **stakeholder wants** and what the **users need**.
 
-## Overview {#0df8}
-
-The New Zealand Government invests over $34 Billion a year into the social sector. A large portion of that funding goes to government services and agencies, whilst the rest goes to Social Service Providers \(NGO’s and Charities\) to deliver services on behalf of government, to New Zealanders in need.
-
-Running a Social Service requires a lot of time, energy, and money to be put towards **government interactions **and** compliance** — which could be going to their clients. In February 2017 Accreditron began broadly researching this problem with the help of MSD, searching for pain-points and opportunities.
-
-## About the Team {#bde6}
-
-We’re a company of designers, copy-writers, user-researchers, talkers, and software engineers. We prioritise design, full-stop. Moreover, we think that pleasant and purposeful user experience is a key offering to the stakeholders and users of Accreditron. A _stakeholder_ being someone who has interest in the product versus a _user _being a person who will actively engage in using the product. Our stakeholders are spread across different levels of New Zealand Government and the Social Sector. Every person comes from a different background, they think differently from each other, and they all use computers in different ways.
-
-We think Accreditron should be zero cost to the social sector. This means, like many enterprise software companies, the people funding Accreditron are not representative of all the users that will engage with the product. Instead, funding stakeholders might be the management, government leadership, or funding organisations. **Because of this difference in incentives, a disconnect can form between what the funding stakeholder wants and what the users need.**
-
-Usability research is an essential contributor to our success and why we take design and evidence-based decision making seriously. It also allows us to keep the voice of all users at the table and supports us to build our product directly for the people using it. _It’s all about collaboration and communication._
+Design research is an essential contributor to our success and why we take design and evidence-based decision making seriously. It also allows us to keep the voice of all users at the table and supports us to build our product directly for the people using it. _It’s all about collaboration and communication._
 
 ## Usability Research {#42f9}
 
