@@ -1,7 +1,5 @@
 ---
-description: >-
-  A behind-the-scenes look at the design research work we do to make Accreditron
-  the best it can be.
+description: A behind-the-scenes look at our design research
 ---
 
 # Design Research at Accreditron
