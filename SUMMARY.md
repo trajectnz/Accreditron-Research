@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Research on Accreditron](README.md)
+* [Design Research at Accreditron](README.md)
 * [Discovery](discovery.md)
 * [Co-Design](co-design.md)
 * [Trials](trials/README.md)

@@ -1,11 +1,18 @@
 ---
 description: >-
-  General overview and background information about design thinking and
-  usability research conducted for Accreditron
+  A behind-the-scenes look at the design research work we do to make Accreditron
+  the best it can be.
 ---
 
-# Research on Accreditron
+# Design Research at Accreditron
 
+
+
+
+
+![](.gitbook/assets/design.png)
+
+  
 Accreditron is a platform that makes it easier for Social Service Providers to spend less time on paperwork so they can spend more time with their clients. 
 
 ![All-of-government web platform for the social sector](https://cdn-images-1.medium.com/max/800/1*H_HzVpo7CRl1ncp29CHs1w.png)
