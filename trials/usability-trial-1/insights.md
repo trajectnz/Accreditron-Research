@@ -30,9 +30,9 @@ One of the features we identified as requiring testing was the login and registr
 
 While we were happy with how this performed we’ve implemented some changes, for example the “email sent” notification is now a modal and the privacy policy has been moved to registration. Because of these changes we’ll be making sure to get feedback on login and registration again to make sure that it’s still clear and easily navigable.
 
-## All-of-Government support
 
-## Plain English
+
+## 
 
 
 
