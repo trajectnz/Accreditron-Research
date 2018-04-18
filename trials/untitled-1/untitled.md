@@ -42,7 +42,7 @@ The researcher will not be monitoring how they interact with the software during
   
 The provider has been advised to contact their assessor before contacting their researcher. There is expected to be a conversation between the assessors and the researcher throughout the trial.
 
-## 4. Post-trial
+## 4. Post-trial Interview
 
 Assessors will be automatically notified by email from Accreditron when a provider submits their pre-assessment for review. At this time the assessor can begin their process of reviewing their pre-assessment.
 
@@ -65,7 +65,7 @@ The interviewer will interview the Assessor following these steps:
 4. Transcribe interview into the [Trial 2 - Assessor - Questionnaire](https://docs.google.com/forms/u/1/d/1HOpEC3ZJc1ETn2VDu66ZHrHKwsbKryYOnF9DCWyXjCc/edit?usp=drive_web).
 5. Send [thank you email](https://docs.google.com/document/d/1Xg0pHo55D3gGGlN7BkmnwE3XspMHsxQrnlo6Sy4Sy-k/edit) to the assessor.
 
-## 5. Processing of data collected
+## 5. Processing of Data Collected
 
 Once all interview data has been transcribed into the appropriate questionnaire, the researcher will begin to sort this information into usable findings.  
 
