@@ -17,5 +17,4 @@
     * [Process and Procedure](trials/untitled-1/untitled.md)
     * [Resources](trials/untitled-1/resources.md)
     * Insights
-* Design
 
