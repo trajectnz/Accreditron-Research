@@ -1,7 +1,5 @@
 ---
-description: >-
-  Design thinking and human centered design methodology  to research the social
-  sector and government space.
+description: Initial exploration of the problem space
 ---
 
 # Discovery
