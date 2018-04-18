@@ -26,10 +26,6 @@ For your last accreditation, how long did it take your organisation to submit th
 What percentage of your time was dedicated to the pre-assessment during that time?
 {% endhint %}
 
-
-
-
-
 ## Quantifying time 
 
 We want to understand how much time is spent on tasks so we can articulate how much time has is saved with different feature additions to Accreditron. 
@@ -39,6 +35,14 @@ Our aim Trial 1 was to gather quantifiable information about how much time provi
 > We spend two weeks with our staff in the office until 10pm at night preparing for an Accreditation.
 
 As we move into future trials we will focus on different ways to quantify the time commitment
+
+
+
+{% hint style="info" %}
+example question that shows how we are measuring time
+{% endhint %}
+
+##  Themes measured - continued from Trial 1
 
 ### 1. Login and Registration
 
@@ -50,7 +54,7 @@ Users can login and register with ease.
 
 ### 4. Navigation 
 
-## Additional Themes for Trial 2
+## Themes Introduced in Trial 2
 
 what else we are testing to
 
