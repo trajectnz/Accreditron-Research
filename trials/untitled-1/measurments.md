@@ -74,35 +74,31 @@ During your pre-assessment on Accreditron we're you asked to provide additional 
 {% endhint %}
 
   
-Checking completion status of a pre-assessment and ensuring that all of the correct information is submitted first try is a **better indicator of success** compared to reducing time spent on the process. Accreditron has a goal of shifting as much work as possible to a pre-assessment where it can
+Checking completion status of a pre-assessment and ensuring that all of the correct information is submitted first try is a **better indicator of success** compared to reducing time spent on the process. 
+
+Accreditron has a goal of shifting as much work as possible to a pre-assessment where it can reviewed at a desk instead of during a site visit. And since all information is saved for a providers next assessment on Accreditron we will expect to see the majority of the times savings occur during their second pre-assessment process.
 
 ##  Comparing insights from previous Trial
 
-We will continue to test to the four themes defined in Trial 1. 
+We will continue to review and gather insights relating to:
 
 ### 1. Login and Registration
 
-Users can login and register their organisation on Accreditron with ease.
-
-### 2. Setting Expectations
-
-User expectations are set at the beginning so that they know how to use Accreditron and what to expect from the process.
+### 2. Expectation Setting
 
 ### 3. Question and Content Comprehension
 
-Users find the process and content such as questions and functionality engaging and easy to understand.
-
 ### 4. Navigation 
-
-Users are able to navigate their way through Accreditron and find the process intuitive.
 
 ## Themes Introduced in Trial 2
 
-what else we are testing to
+Additional themes that will be included in Trial 2
 
-### 5. Internal action management
+### 5. Dashboard Functionality 
 
-### 6. Dashboard
+### 6. Internal action management
+
+### 7. Staff file management
 
 ### 
 
