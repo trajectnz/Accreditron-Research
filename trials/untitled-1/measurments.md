@@ -46,7 +46,7 @@ As we move into future trials we will trial asking different questions that can 
 example question that shows how we are measuring time
 {% endhint %}
 
-##  Themes measured - continued from Trial 1
+##  Cross-trial Comparison
 
 ### 1. Login and Registration
 
