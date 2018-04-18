@@ -6,7 +6,11 @@ description: >-
 
 # Provider Co-design Workshops
 
-## Provider Co-Design Workshop
+{% hint style="info" %}
+This section is a work in progress. Meaning, some provider co-design workshops that have been conducted are not currently documented here yet. Please check back later to see updated results.
+{% endhint %}
+
+## Workshop 1
 
 August 21, 2017
 
@@ -16,9 +20,11 @@ Co-sponsered by SSPA, we had a great turn out of six national social service pro
 
 * Presentation of MSD Survey and Hui with 50 social service providers
 * Demonstration of current state of Accreditron
-* Design activity 1: 
+* Facilitated design activities to prototype and develop ideas ~2hours
 
 ## Insights
+
+Insights were gathered based on information collected from the workshop. Below outlines the highest valued insights to the group.
 
 ### Privacy
 
@@ -45,15 +51,16 @@ Providers stress it should be a free service, funded by government.
 
 Ability to use Accreditron for more than just the Accreditation Process. Accreditron should be able to send information for due-dilligence, RFP, and contracting processes. For exaple, when a provider is working on a proposal for funding.
 
-  
+## Outcome
+
+One of the activities in the co-design session was to draw the ideal system that fits their organisational needs. This is where the first mock-up and design for an inter-agency profile for born.
+
+### Inter-agency Provider Profile
 
 
-  
 
+![hand-drawn mockup](../.gitbook/assets/1_boffzspifaxnmr1aylq-la.jpeg)
 
-
-
-  
   
 
 

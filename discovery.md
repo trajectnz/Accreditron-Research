@@ -12,7 +12,7 @@ This research was conducted to understand the problem space of social sector and
 
 ## Process
 
-Over 70 s**emi-structured interviews** with Social Service Providers and Government staff were conducted over a six-week period. This started in late February of 2017.
+Over 70 **semi-structured interviews** with Social Service Providers and Government staff were conducted over a six-week period. This started in late February of 2017.
 
 Interviews were focused on gathering qualitative information and less focused on gathering quantitative information. **Thematic analysis** was conducted to discover common insights. 
 
@@ -46,7 +46,7 @@ Here are the top six insights collected from Social Service Providers during thi
 
 
 
-## Finding and Insights for Government
+## Findings and Insights for Government
 
 Here are the top six insights collected from Government during this discovery process:
 
