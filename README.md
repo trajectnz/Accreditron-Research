@@ -63,13 +63,9 @@ Individuals that span many levels of government across: Social Sector Accreditat
 
 Individuals who go through similar process to fund the Social Sector but are not acting on behalf of the crown.
 
-{% hint style="info" %}
-According to the productivity commissions report from 2015:  
-  
-As a whole, charities that deliver social services only receive about 50% of their funding from government. The other 50% is from non government sources.
-{% endhint %}
-
-
+> As a whole, charities that deliver social services only receive about 50% of their funding from government. The other 50% is from non government sources.
+>
+> 2015 Productivity Commissioner Report
 
 **Continue to next section:**
 
