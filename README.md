@@ -39,7 +39,7 @@ For every component on Accreditron, we first research why we should build it and
 
 Usability research is one option for gathering data and measuring performance. By holding many usability sessions and interviews, we can pull all of the information together to develop insights across a sample group. Then use these gathered insights to drive the design of Accreditron and provide validation where possible.
 
-## Research Conducted
+## What have we tested
 
 {% page-ref page="discovery.md" %}
 
@@ -47,7 +47,7 @@ Usability research is one option for gathering data and measuring performance. B
 
 {% page-ref page="trials/" %}
 
-## Participant Pool
+## Who did we test with
 
 #### Social Service Providers
 
