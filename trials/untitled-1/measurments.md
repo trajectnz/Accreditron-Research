@@ -26,15 +26,19 @@ For your last accreditation, how long did it take your organisation to submit th
 What percentage of your time was dedicated to the pre-assessment during that time?
 {% endhint %}
 
-## Quantifying time 
+## Quantifying Time 
 
-We want to understand how much time is spent on tasks so we can articulate how much time has is saved with different feature additions to Accreditron. 
+We want to understand how much time is spent on tasks so we can articulate how much time has is saved with different feature additions to Accreditron. Time savings is a great way to tangibly show benefit.
 
-Our aim Trial 1 was to gather quantifiable information about how much time providers spend on different processes, particularly in their pre-assessment. Providers would not able to put numbers to their time commitment, instead they would answer with qualitative statements 
+Our aim Trial 1 was to gather quantifiable information about how much time providers spend on different processes, particularly their pre-assessment process. Unfortunately, providers participating in the trial we're not able to put numbers to their time commitment, instead they would answer with qualitative statements like:
 
 > We spend two weeks with our staff in the office until 10pm at night preparing for an Accreditation.
 
-As we move into future trials we will focus on different ways to quantify the time commitment
+or
+
+> We spend a lot of time working on putting all of our information together.
+
+As we move into future trials we will trial asking different questions that can help us quantify how much time is saved when using Accreditron.
 
 
 
