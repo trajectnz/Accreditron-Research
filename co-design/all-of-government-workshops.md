@@ -6,7 +6,7 @@ Accreditron has been facilitating demos and co-design workshops with government 
 
 ## Organisations in Attendance
 
-### Organisations regularly attending all-of-government co-design workshops
+Organisations regularly attending all-of-government co-design workshops
 
 * Ministry of Social Development
 * Oranga Tamariki, Ministry for Children
@@ -19,9 +19,9 @@ Accreditron has been facilitating demos and co-design workshops with government 
 * District Auditing Agencies \(DHB's\)
 * Ministry for Business, Innovation, and Employment
 * ACC
-* NZQA 
+* NZQA
 
-### Other Organisation's Involved
+Other Organisation's Involved
 
 * Ministry for Women
 * Social Investment Agency
@@ -50,14 +50,12 @@ Many workshops, presentations, and feedback sessions, and interviews have been h
 | 10 |  |  |  |
 | 11 |  |  |  |
 | 12 |  |  |  |
-| 13 |  |  |  |
+| 13 | Workload Management | Presented designs to manage workload across the inter-agency accreditation team | April 13, 2018 |
 | 14 |  |  |  |
 
 
 
+## Attend a demo!
 
-
-
-
-
+Our demos are open to any interested party from government or the social sector. If you'd like to attend one, please contact[ research@accreditron.com](mailto:research@accreditron.com)
 
