@@ -10,6 +10,12 @@ description: >-
 
 Providers in the trial were using out of date and unsupported browser. Thus it is important for Accreditron to offer a wide range of browser support - focusing on maintaining support for older versions of browser.
 
+Currently Supported Browsers
+
+| Chrome | Microsoft Edge | Firefox | Safari | Opera | Internet Explorer |
+| --- | --- |
+|  |  |  |  |  |  |
+
 ## Staff File Management
 
 ## Dashboard Comprehension
@@ -26,5 +32,5 @@ Updated design and  flow to improve user experience.
 
 ## All-of-Government support
 
-
+## Plain English
 
