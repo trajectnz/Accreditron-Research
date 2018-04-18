@@ -6,7 +6,7 @@ description: Iterating fast through diverse perspectives
 
 ![Feedback written over paper prototypes after an all-of-government workshop](https://lh4.googleusercontent.com/QGrXygFX2fOuJLftOWdptNS0rF9RJL7UGV6imR0GnPfmfBuX4wsPNn_BEYBTdekB_mNK11-WmhHKJRY3FNRPfJUXdQ6IylB5DdZQaBJXewb_QrU1O3p2N7IptS2DHOJIWzyPCs7LXGQ)
 
-## Co-design workshops methodology
+## What are co-design workshops
 
 To understand a problem, a great initial step is to get the widest range of stakeholders as you can in a room to discuss the problem and potential solutions.   
   
@@ -23,7 +23,7 @@ Workshops are used extensively in the early design phases. **Pitching an idea to
 
 Many of our best ideas and opportunities have come out of co-design workshops, ideas we would have never considered by ourselves. In short, "you don't know, what you don't know". 
 
-## Workshops
+## Workshops conducted
 
 {% page-ref page="all-of-government-workshops.md" %}
 
