@@ -1,7 +1,5 @@
 ---
-description: >-
-  General insights gathered from social service providers as a result of
-  conducting facilitated usability reach during Trial 1.
+description: General insights gathered from social service providers.
 ---
 
 # Insights

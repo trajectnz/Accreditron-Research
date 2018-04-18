@@ -1,7 +1,7 @@
 ---
 description: >-
   Outline of four assumptions that were tested during Trial 1 and their
-  corresponding outcome
+  corresponding results.
 ---
 
 # Outcomes
