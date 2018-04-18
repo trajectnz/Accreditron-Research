@@ -4,7 +4,7 @@ description: A behind-the-scenes look at our design research
 
 # Design Research at Accreditron
 
-## Why is design needed
+## Why is design needed?
 
 ![](.gitbook/assets/design.png)
 
@@ -39,7 +39,7 @@ For every component on Accreditron, we first research why we should build it and
 
 Usability research is one option for gathering data and measuring performance. By holding many usability sessions and interviews, we can pull all of the information together to develop insights across a sample group. Then use these gathered insights to drive the design of Accreditron and provide validation where possible.
 
-## What have we tested
+## What have we tested?
 
 We have done a large range of design research, but these have been our largest research projects. 
 
@@ -49,7 +49,7 @@ We have done a large range of design research, but these have been our largest r
 
 {% page-ref page="trials/" %}
 
-## Who did we test with
+## Who did we test with?
 
 #### Social Service Providers
 
