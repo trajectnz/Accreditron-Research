@@ -12,9 +12,7 @@ Co-design workshops support us to align the diverse stakeholders by using method
 
 ## Workshops with Government
 
-
-
-![](https://lh4.googleusercontent.com/QGrXygFX2fOuJLftOWdptNS0rF9RJL7UGV6imR0GnPfmfBuX4wsPNn_BEYBTdekB_mNK11-WmhHKJRY3FNRPfJUXdQ6IylB5DdZQaBJXewb_QrU1O3p2N7IptS2DHOJIWzyPCs7LXGQ)
+![Feedback on Inter-agency Provider Profile designs](https://lh4.googleusercontent.com/QGrXygFX2fOuJLftOWdptNS0rF9RJL7UGV6imR0GnPfmfBuX4wsPNn_BEYBTdekB_mNK11-WmhHKJRY3FNRPfJUXdQ6IylB5DdZQaBJXewb_QrU1O3p2N7IptS2DHOJIWzyPCs7LXGQ)
 
 ## Workshops with Social Service Accreditation Assessors
 
@@ -28,7 +26,7 @@ Co-design workshops support us to align the diverse stakeholders by using method
 This section is a work in progress. Meaning, some provider co-design workshops that have been conducted are not currently documented here yet. Please check back later to see updated results.
 {% endhint %}
 
-![Documenting providers Journey](https://lh4.googleusercontent.com/MeZTON-tbWAFo1I3ZDbTDye5kyZ02LdClzgoAaLJ1vw9YEx0KV3ZsrQ7CWug-vxAjXDcks8g5flH-pcIThy9s1xRNctyKN-_bkO0fIMMKvTT9mv9LWtpjuHdtO74p28H59kmXDiZ_VQ)
+![Documenting providers Journey in Workshop 1](https://lh4.googleusercontent.com/MeZTON-tbWAFo1I3ZDbTDye5kyZ02LdClzgoAaLJ1vw9YEx0KV3ZsrQ7CWug-vxAjXDcks8g5flH-pcIThy9s1xRNctyKN-_bkO0fIMMKvTT9mv9LWtpjuHdtO74p28H59kmXDiZ_VQ)
 
 **Skip to section:**
 
