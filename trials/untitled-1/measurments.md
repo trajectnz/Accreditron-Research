@@ -46,17 +46,23 @@ As we move into future trials we will trial asking different questions that can 
 example question that shows how we are measuring time
 {% endhint %}
 
-##  Cross-trial Comparison
+##  Themes measured - continued from Trial 1
 
 ### 1. Login and Registration
 
-Users can login and register with ease. 
+Users can login and register their organisation on Accreditron with ease.
 
 ### 2. Setting Expectations
 
+User expectations are set at the beginning so that they know how to use Accreditron and what to expect from the process.
+
 ### 3. Question and Content Comprehension
 
+Users find the process and content such as questions and functionality engaging and easy to understand.
+
 ### 4. Navigation 
+
+Users are able to navigate their way through Accreditron and find the process intuitive.
 
 ## Themes Introduced in Trial 2
 
