@@ -38,43 +38,47 @@ or
 
 > We spend a lot of time working on putting all of our information together.
 
-As we move into future trials we will trial asking different questions that can help us quantify how much time is saved when using Accreditron.
-
+As we move into future trials we will trial asking different questions that can help us quantify how much time is saved when using Accreditron.  
   
 In trial one we ask about total time spent on the process. We will still ask this, but will not expect quantitative answers.
 
 {% hint style="warning" %}
-Asking about total time:
+**Asking about total time:**
 
-"For your last accreditation, how long did it take your organisation to submit the information from when you started the pre-assessment process?”
+For your last accreditation, how long did it take your organisation to submit the information from when you started the pre-assessment process?
 
-“Would you say more or less than a week..?”
+Would you say more or less than a week..?
 {% endhint %}
 
   
 Additional follow up to understand, and start to quantify. Is this a one person job, is it a two person job, do the spend 50% of their time working on their pre-assessment?
 
 {% hint style="warning" %}
-Asking about percentage of contribution:  
-“What percentage of your time was dedicated to the pre-assessment during that time?”
+**Asking about percentage of contribution:**
 
-“Were any other people involved?”  
+What percentage of your time was dedicated to the pre-assessment during that time?
+
+Were any other people involved?
 {% endhint %}
 
-To gather more additional quantitative information, we will begin to ask about first times successful submissions. Are we reducing the number of back and forth emails from a provider not providing all of the right information up-front.
+  
+To gather quantitative information, we will begin to ask about first times successful submissions. Are we reducing the number of back and forth emails from a provider not providing all of the right information up-front.
 
 {% hint style="success" %}
 Asking about events and first time completion rate:  
-"For your last pre-assessment were you asked to provide additional information after?"  
+For your last pre-assessment were you asked to provide additional information after?  
   
-"How many times were you asked for addional information?"  
+How many times were you asked for additional information? This might of looked like an email.  
   
-"During your pre-assessment on Accreditron we're you asked to provide additional information after?"
+During your pre-assessment on Accreditron we're you asked to provide additional information after submission?
 {% endhint %}
 
-Checking completion status of a pre-assessment, and ensuring that all of the correct information is submitted first try is a better indicator of success vs reducing time spent on the process. 
+  
+Checking completion status of a pre-assessment and ensuring that all of the correct information is submitted first try is a **better indicator of success** compared to reducing time spent on the process. Accreditron has a goal of shifting as much work as possible to a pre-assessment where it can
 
-##  Comparing insights to previous Trial
+##  Comparing insights from previous Trial
+
+We will continue to test to the four themes defined in Trial 1. 
 
 ### 1. Login and Registration
 
