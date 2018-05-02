@@ -11,7 +11,7 @@ While we interviewed a lot of people across government they can be broadly categ
 
 The unique ways they use information means that they have a range of priorities when it comes to what they need from Accreditron:
 
-![](../.gitbook/assets/screen-shot-2018-05-02-at-1.53.32-pm.png)
+![](../.gitbook/assets/gang.png)
 
 ### **Procurement Team Member**
 

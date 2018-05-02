@@ -4,10 +4,10 @@ Every Social Service Provider goes through accreditation on a regular basis. Acc
 
 
 
-![](../.gitbook/assets/1676116-200.png)
+![](../.gitbook/assets/lady.png)
 
 **The cost of compliance is too high  
-"**I need the cost of compliance to be lower; which may include: staff time,     volunteer time, resources, and financial cost. Because my resources are scarce, I need to spend my time delivering service to clients."
+"**I need the cost of compliance to be lower; which may include: staff time, volunteer time, resources, and financial cost. Because my resources are scarce, I need to spend my time delivering service to clients."
 
 **Giving the right information to Government can be difficult  
 **"It can be hard to know which information the government needs from me. I need to clearly know what information is required and have an easy way to give it to them. I need be made aware of any problems quickly, so I can be certain that I have done everything I can to maintain a high standard of compliance."** **
