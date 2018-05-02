@@ -100,15 +100,5 @@ Additional themes that will be included in Trial 2
 
 ### 7. Staff file management
 
-### 
-
-
-
-
-
-**Continue to next section:**
-
-{% page-ref page="untitled.md" %}
-
 
 

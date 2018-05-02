@@ -41,9 +41,3 @@ We track the question set in Trello, to ensure the discussion around questions i
 
 
 
-**Continue to next section:**
-
-{% page-ref page="provider-co-design-workshop.md" %}
-
-
-

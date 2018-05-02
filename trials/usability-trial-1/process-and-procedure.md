@@ -22,9 +22,3 @@ Using the Accreditron platform submit your pre-assessment.
 
 
 
-**Continue to next section:**
-
-{% page-ref page="insights.md" %}
-
-
-

@@ -43,7 +43,7 @@ Usability research is one option for gathering data and measuring performance. B
 
 We have done a large range of design research, but these have been our largest research projects. 
 
-{% page-ref page="discovery.md" %}
+{% page-ref page="discovery/" %}
 
 {% page-ref page="co-design/" %}
 
@@ -73,7 +73,7 @@ Individuals who go through similar process to fund the Social Sector but are not
 
 **Continue to next section:**
 
-{% page-ref page="discovery.md" %}
+{% page-ref page="discovery/" %}
 
 
 

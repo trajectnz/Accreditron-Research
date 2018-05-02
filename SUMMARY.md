@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Design Research at Accreditron](README.md)
-* [Discovery](discovery.md)
+* [Discovery](discovery/README.md)
+  * [Findings and Insights from Providers](discovery/findings-and-insights-from-providers.md)
+  * [Findings and Insights from Government](discovery/untitled.md)
 * [Co-Design Workshops](co-design/README.md)
   * [All-of-Government Workshops](co-design/all-of-government-workshops.md)
   * [Assessor Working Group](co-design/untitled.md)

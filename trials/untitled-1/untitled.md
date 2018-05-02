@@ -90,9 +90,3 @@ Having completed the processing and analysis of data the researcher will compile
 
 
 
-**Continue to next section:**
-
-{% page-ref page="resources.md" %}
-
-
-

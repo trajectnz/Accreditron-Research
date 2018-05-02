@@ -34,9 +34,3 @@ The response to Accreditron was overwhelmingly positive, to put this in perspect
 
 
 
-**Continue to next section:**
-
-{% page-ref page="process-and-procedure.md" %}
-
-
-

@@ -26,11 +26,3 @@ This page will hold links to all resource material. It is currently not up-to-da
 
 
 
-
-
-**Continue to next section:**
-
-{% page-ref page="insights.md" %}
-
-
-

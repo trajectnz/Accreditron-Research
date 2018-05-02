@@ -41,9 +41,3 @@ Organisations participating in Trial 2 must:
 
 
 
-**Continue to next section:**
-
-{% page-ref page="risk-mitigations.md" %}
-
-
-

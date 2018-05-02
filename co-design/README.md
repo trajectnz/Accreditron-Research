@@ -33,11 +33,3 @@ Many of our best ideas and opportunities have come out of co-design workshops, i
 
 
 
-
-
-**Continue to next section:**
-
-{% page-ref page="../trials/" %}
-
-
-
