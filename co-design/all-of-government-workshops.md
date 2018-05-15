@@ -41,7 +41,7 @@ Many workshops, presentations, and feedback sessions, and interviews have been h
 ### List of all-of-government workshops
 
 |  | Title | Description | Date |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Define Agency Co-design Group | Project kick off, discuss findings from discovery, review project timelines and success criteria. | August 11, 2017 |
 | 2 | Workshop Provider Profile | Discussed insights and findings from the co-design workshop with providers held on August 21th, 2017. Facilitated design activities to review the 'Provider Profile'.  | August 15, 2017 |
 | 3 | Insights from Provider Profile | Discussed insights and findings gathered from Workshop \#2.  Scannable summary, flags and notifications and a tailored view are all things that important for a quality provider profile to government. | September 8, 2017 |
@@ -56,6 +56,7 @@ Many workshops, presentations, and feedback sessions, and interviews have been h
 | 12 | A Technical Presentation | End of phase 2 demo. We discussed the technical components of Accreditron including event sourcing, severless architecture, and our deployment strategy. | March 16, 2018 |
 | 13 | Writing good questions | Using Plain English as a base to define question set for accreditation. We discussed browser support, privacy, and our style guide for question sets. | March 30, 2018 |
 | 14 | Workload Management | How do government organisations understand and manage their workload? Workload management being different from workflow management is a way for government to plan it's work and distribute work within their teams. | April 12, 2018 |
+| 15 | Procurement Process Mapping | Understanding how procurement teams handle their workflow and workload. Validate if Accreditron design maps across procurement workflow. | May 1, 2018 |
 
 
 
