@@ -41,7 +41,7 @@ Many workshops, presentations, and feedback sessions, and interviews have been h
 ### List of all-of-government workshops
 
 |  | Title | Description | Date |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Define Agency Co-design Group | Project kick off, discuss findings from discovery, review project timelines and success criteria. | August 11, 2017 |
 | 2 | Workshop Provider Profile | Discussed insights and findings from the co-design workshop with providers held on August 21th, 2017. Facilitated design activities to review the 'Provider Profile'.  | August 15, 2017 |
 | 3 | Insights from Provider Profile | Discussed insights and findings gathered from Workshop \#2.  Scannable summary, flags and notifications and a tailored view are all things that important for a quality provider profile to government. | September 8, 2017 |
@@ -57,6 +57,7 @@ Many workshops, presentations, and feedback sessions, and interviews have been h
 | 13 | Writing good questions | Using Plain English as a base to define question set for accreditation. We discussed browser support, privacy, and our style guide for question sets. | March 30, 2018 |
 | 14 | Workload Management | How do government organisations understand and manage their workload? Workload management being different from workflow management is a way for government to plan it's work and distribute work within their teams. | April 12, 2018 |
 | 15 | Procurement Process Mapping | Understanding how procurement teams handle their workflow and workload. Validate if Accreditron design maps across procurement workflow. | May 1, 2018 |
+| 16 | It's a Party | Celebrating the project meeting the end of Phase 3.  With over 180 people invited, we will demonstrate what is currently built on Accreditron, what is next for us, and offer a big thank you to everyone who has been involved thus far. | May 24, 2018 |
 
 
 
