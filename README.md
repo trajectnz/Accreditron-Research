@@ -71,9 +71,3 @@ Individuals who go through similar process to fund the Social Sector but are not
 
 
 
-**Continue to next section:**
-
-{% page-ref page="discovery/" %}
-
-
-

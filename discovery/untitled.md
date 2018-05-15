@@ -5,9 +5,9 @@ On the government end information gathered through accreditation is used by peop
 While we interviewed a lot of people across government they can be broadly categorised as belonging to:
 
 * **Procurement**: Finds the right provider to fulfil a service.
-* **Contract Management: **Ensures contracts are being correctly fulfilled.
+* **Contract Management:** Ensures contracts are being correctly fulfilled.
 * **Accreditation**: A third party review to ensure providers are safely delivering services to clients.
-* **Government Staff: **General staff interacting with the social sector.
+* **Government Staff:** General staff interacting with the social sector.
 
 The unique ways they use information means that they have a range of priorities when it comes to what they need from Accreditron:
 
@@ -17,8 +17,8 @@ The unique ways they use information means that they have a range of priorities 
 
 ### **It’s important to have the bigger picture**
 
-**  
-**"Because I’m making decisions around which social services to spend on I need better intelligence about the provider landscape so I can make better informed contracting decisions and reduce duplication of effort."
+  
+****"Because I’m making decisions around which social services to spend on I need better intelligence about the provider landscape so I can make better informed contracting decisions and reduce duplication of effort."
 
 ## **Contracts Team Member**
 

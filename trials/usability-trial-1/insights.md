@@ -14,8 +14,8 @@ Since the first round of trials we’ve introduced much broader browser support 
 
 An area of Accreditron that produced enthusiastic responses from providers was the staffing section. For a lot of providers managing staffing documents is a large pain-point requiring a considerable amount of time and effort to keep in order. **Providers were excited not only by our staffing section but also the potential they saw in it**, ways it could be developed to make their jobs easier with a number offering suggestions around how it could be developed to include vetting status and staffing documents in particular as well as a number of other features.
 
-We’ve taken provider feedback on board and developed our staffing section in ways that we hope will better support their needs. By looking at this again in our trial we can not only make sure that the changes we’ve introduced will further help providers but also see if there is anymore room for changes that make their lives easier and less stressful.**  
-**
+We’ve taken provider feedback on board and developed our staffing section in ways that we hope will better support their needs. By looking at this again in our trial we can not only make sure that the changes we’ve introduced will further help providers but also see if there is anymore room for changes that make their lives easier and less stressful.  
+****
 
 ## **Dashboard Comprehension**
 

@@ -12,7 +12,7 @@ Every Social Service Provider goes through accreditation on a regular basis. Acc
 
 ### **Giving the right information to Government can be difficult**
 
-"It can be hard to know which information the government needs from me. I need to clearly know what information is required and have an easy way to give it to them. I need be made aware of any problems quickly, so I can be certain that I have done everything I can to maintain a high standard of compliance."** **
+"It can be hard to know which information the government needs from me. I need to clearly know what information is required and have an easy way to give it to them. I need be made aware of any problems quickly, so I can be certain that I have done everything I can to maintain a high standard of compliance." ****
 
 ### **Changes in processes and requirements are surprising**
 
@@ -28,5 +28,5 @@ Every Social Service Provider goes through accreditation on a regular basis. Acc
 
 ### **A lack of consistency across government is risky to providers**
 
-"As a Provider, I need consistency of behaviour and standards between different government staff — so if my contact changes I will know that I will still be found compliant.** "**
+"As a Provider, I need consistency of behaviour and standards between different government staff — so if my contact changes I will know that I will still be found compliant. **"**
 

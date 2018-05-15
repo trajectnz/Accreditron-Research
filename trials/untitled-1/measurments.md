@@ -11,8 +11,8 @@ description: >-
 There are two main types of data collected during a trial. Most of the information collected will be qualitative, which is information collected through a structured interview. Qualitative data comes from open ended questions.
 
 {% hint style="info" %}
-**Qualitative Prompt:  
-**  
+**Qualitative Prompt:**  
+  
 Were there any things in particular that you quite liked about the process?
 {% endhint %}
 

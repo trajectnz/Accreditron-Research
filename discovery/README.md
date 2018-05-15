@@ -6,7 +6,7 @@ description: Our initial exploration of the problem space
 
 ![](../.gitbook/assets/artboard-21.png)
 
-Our first research was focused on the problem space of** social sector and government interactions**. At the time of this research, Acceditron did not exist. This discovery research and corresponding insights lead to the validation and development of Accreditron.
+Our first research was focused on the problem space of **social sector and government interactions**. At the time of this research, Acceditron did not exist. This discovery research and corresponding insights lead to the validation and development of Accreditron.
 
 ## Process
 
